@@ -1,2 +1,1 @@
-# to-do-app
-Basic To do list app using React
+To do app using React
